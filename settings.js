@@ -1,41 +1,41 @@
-//base by HANSTZ
-//YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255756530143
+//base by Aura Dc
+//YouTube: Dc
+//Whatsapp https://wa.me/255672562733
 //GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//WhatsApp: https://whatsapp.com/channel/0029VbAgnLlJJhzgPIZbSA3H
+//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VbAgnLlJJhzgPIZbSA3H
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
-global.ytname = "HANSTZ-TECH"
-global.socialm = "GitHub: Mrhanstz"
+global.ownernomer = "255672562733"
+global.ownername = "Aura Dc"
+global.ytname = "Aura Dc"
+global.socialm = "GitHub: Dany10000"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownernumber = '255672562733'  //creator number
+global.ownername = 'Aura' //owner name
+global.botname = 'Aura' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = 'Aura Dc'
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "HANS BOT"
+global.wm = "DC BOT"
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = 'https://whatsapp.com/channel/0029VbAgnLlJJhzgPIZbSA3H'
 //custom prefix
 global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 
 global.autolikestatus = true //For auto react Status Random
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
-global.autoreact = false // This is For Auto React 
+global.autoreact = true // This is For Auto React 
 global.welcome = false // For Welcome massage groups
 
 global.typemenu = 'v1'
